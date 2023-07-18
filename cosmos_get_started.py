@@ -4,8 +4,8 @@ import asyncio
 import family
 
 # <add_uri_and_key>
-endpoint = "<Your Cosmos DB Resource URI>"
-key = "<Your Cosmos DB Resource PRIMARY KEY>"
+endpoint = "https://msdocs-672626064.documents.azure.com:443/"
+key = "7jmsMJ2KAnezmO3t5HW2O7ffM5gZPgnlKBn8plK4tLHAuOnWUhZYM4xXHnYv2g0gWfSXPhZcLy3uACDb3Pzklg=="
 # </add_uri_and_key>
 
 
